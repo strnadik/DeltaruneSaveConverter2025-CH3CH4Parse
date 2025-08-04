@@ -1,5 +1,5 @@
-#DeltaruneSaveConverter
-#Chapter 3 and 4 parser edit
+# DeltaruneSaveConverter
+# Chapter 3 and 4 parser edit
 
 So I've had issues with my Switch save not working on Steam and I did the worst edit known to mankind. Treating a seemingly unknown GMS type as Real (using ToDouble on it and offseting by 8), and it... seems to work well enough.
 All my items are intact, levels, equips, and choices seem good too. I loaded up CH4 save at Kris Room and Tenna is intact (duct taped), so I "saved" him. Shadow Mantle/crystals are in my inventory... All seems oddly intact. 
